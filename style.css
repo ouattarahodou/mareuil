@@ -3,8 +3,29 @@ h1
     color: crimson;
     font-size: 3rem;
 }
+.image1
+{
+    width: 830px;
+    height: 250px;
+}
+.image2
+{
+    width: 830px;
+    height: 250px;
+    float: right;
+}
+.image3
+{
+    width: 830px;
+    height: 250px;
+}
+.image4
+{
+    width: 830px;
+    height: 250px;
+    float: right;
+}
 .image
 {
-    width: 840px;
-    height: 300px;
+    border-radius: 50px;
 }
